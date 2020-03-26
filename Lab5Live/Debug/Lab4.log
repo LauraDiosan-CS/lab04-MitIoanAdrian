@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+C:\Users\Informatica\Desktop\sa-mi bag pula\Lab4\Lab4.cpp(58,37): warning C4101: 'ID': unreferenced local variable
+  Service.cpp
+  Tests.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\Informatica\Desktop\sa-mi bag pula\Lab4\Debug\Lab4.exe for writing
